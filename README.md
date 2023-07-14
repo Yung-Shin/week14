@@ -40,6 +40,21 @@ It's a simple and concise version of social networking platform for tech lovers.
 This project is under [MIT](https://opensource.org/licenses/MIT) license.
 
 ##  Screenshots
+<img width="1273" alt="week14 1" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/3cc192bb-1056-4d98-8bfd-af97733fa8bc">
+
+<img width="1275" alt="week14 2" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/7d7532ba-8787-49d9-8904-b75536c31bad">
+
+<img width="1270" alt="week14 3" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/24f2c17f-7497-41be-a255-a9747acab83e">
+
+<img width="1264" alt="week14 4" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/68963229-1f7a-4ca3-8915-90654483e8e9">
+
+<img width="1272" alt="week14 5" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/1843260f-81cf-442f-9361-71bf1ea2af16">
+
+<img width="1269" alt="week14 6" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/dc03c68b-a9e3-4bfd-a8d3-2bdbb4f5b25c">
+
+<img width="1271" alt="week14 7" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/fff710f7-b60a-4285-bc20-870a73d0291c">
+
+<img width="1253" alt="week14 8" src="https://github.com/Yung-Shin/week14_MVC_techBlog/assets/123918265/e4270b73-e209-4cf4-bc18-edceadf75bb0">
 
 
 ## Questions
